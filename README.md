@@ -1,1 +1,1 @@
-# Khushi-Mineeyer
+# Khushi-Mineeyar
