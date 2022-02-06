@@ -18,7 +18,6 @@
 </p>
 
 ![Badge](https://cp-logo.vercel.app/codechef/kmine?logo=true) 
-
 ![Badge](https://cp-logo.vercel.app/codeforces/kmineeya?logo=true)
 
 <h3 align="left">Languages and Tools:</h3>
