@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Mineeyar</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on [Text-to-Speech](https://github.com/Khushi-Mineeyar/Text-to-Speech)
+- 🔭 I’m currently working on [Video- Chat](https://github.com/Khushi-Mineeyar/Video-Chat)
 
 - 🌱 I’m currently learning **Web-Development**
 
