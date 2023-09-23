@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Mineeyar</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on [Video- Chat](https://github.com/Khushi-Mineeyar/Video-Chat)
+- 🔭 I’m currently working on [Redis-clone](https://github.com/Khushi-Mineeyar/Redis_clone)
 
-- 🌱 I’m currently learning **Web-Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Khushi-Mineeyar)
 
